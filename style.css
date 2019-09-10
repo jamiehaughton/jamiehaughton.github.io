@@ -1,0 +1,60 @@
+
+		p {
+			color: rgb(56,147,155);
+
+		}
+		
+		h1 {
+			color: rgb(52, 113, 91);
+			padding: 0px;
+			margin:0px;
+		}
+
+		#title {
+			text-align: center;
+		}
+
+		a {
+			color: rgb(142,216,248);
+		}
+
+		ul {
+			color: rgb(52,147,91);
+		}
+
+		ul.menu {
+			padding: 40px;
+			margin: 0px;
+		}
+
+		li.menu {
+			height: 30px;
+			width: 150px;
+		}
+
+		li.menu:hover {
+			background: rgb(86,160,211);
+		}
+
+		span.Scripps {
+			font-size: 20px;
+		}
+
+		@media screen and (max-width: 600px) {
+  			img {
+    		display: none;
+ 				 }
+		}
+
+		div.links {
+			background: rgb(56,147,155);
+		}
+
+		div.menu {
+			float: left;
+			
+		}
+
+		div.image {
+			text-align: center;
+		}
