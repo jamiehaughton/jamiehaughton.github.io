@@ -40,9 +40,9 @@
 			font-size: 20px;
 		}
 
-		@media screen and (max-width: 600px) {
-  			img {
-    		display: none;
+		@media only screen and (max-width: 600px) {
+ 			body {
+   			background-color: rgb(138,141,143);
  				 }
 		}
 
